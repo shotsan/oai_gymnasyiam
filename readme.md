@@ -7,4 +7,4 @@
 > pip install swig
 >
 
-Please find an example notebook attached.
+Please find an example [notebook](example.ipynb) attached.
